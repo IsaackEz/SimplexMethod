@@ -25,7 +25,9 @@ Then it will ask you how many variables your problem have. Once you done this. T
 -   If you are doing minimization, the variables X1, X2, X3, X4... Xn will be backwards. X1 will be X4, X2 will be X3... and on.
     ONLY IN MINIMIZATION.
 
-..................................................................................................................................................................................................................................................................................
+
+---
+
 
 # ESPAÑOL
 
